@@ -52,7 +52,7 @@ This project is connected to my GitHub repository [action-repo](https://github.c
 
 2. Add your MongoDB connection string in `config.py`:
     ```python
-    MONGO_URI = "mongodb+srv://YashuSN1210:%40YashuSN1210@cluster0.yfxg5ck.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"
+    MONGO_URI = "mongodb+srv://<xxxx>:<xxxx>@cluster0.yfxg5ck.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"
     ```
 
 3. Start Flask:
